@@ -1,0 +1,13 @@
+cluster 
+graph saint
+graph sage
+gated graph rnn
+
+
+dot product
+порог
+
+
+среднее вершин
+адамар
+
